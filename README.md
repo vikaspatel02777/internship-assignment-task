@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Task Manager - Full Stack Application
 
 A professional task management application built with React, Node.js, Express, MongoDB, and JWT authentication.
@@ -5,11 +6,21 @@ A professional task management application built with React, Node.js, Express, M
 ## ✨ Features
 
 ### 🔐 Authentication
+=======
+ Task Manager - Full Stack Application
+
+A professional task management application built with React, Node.js, Express, MongoDB, and JWT authentication.
+
+##  Features
+
+### Authentication
+>>>>>>> f62e7f85b866f670c5f926200377c8056a6cc9a7
 - User registration and login
 - JWT token-based authentication
 - Protected routes with middleware
 - Secure password hashing with bcrypt
 
+<<<<<<< HEAD
 ### 📝 Task Management
 - Create, Read, Update, Delete tasks
 - User-specific task filtering
@@ -18,24 +29,43 @@ A professional task management application built with React, Node.js, Express, M
 - Professional UI/UX
 
 ### 🛠️ Technical Stack
+=======
+### Task Management
+- Create, Read, Update, Delete tasks
+- User-specific task filtering
+- Task completion toggle
+- Search functionality
+- Real-time updates
+
+### Technical Stack
+>>>>>>> f62e7f85b866f670c5f926200377c8056a6cc9a7
 - **Frontend:** React 18 + Vite + Tailwind CSS
 - **Backend:** Node.js + Express + MongoDB
 - **Authentication:** JWT with bcrypt
 - **Architecture:** RESTful API with protected routes
 
+<<<<<<< HEAD
 ### 🎯 Production Features
+=======
+### Production Features
+>>>>>>> f62e7f85b866f670c5f926200377c8056a6cc9a7
 - Scalable API service with interceptors
 - Professional UI/UX with Tailwind
 - Error handling and loading states
 - Clean component architecture
 - Security best practices
 
+<<<<<<< HEAD
 ## 📁 Project Structure
+=======
+## Project Structure
+>>>>>>> f62e7f85b866f670c5f926200377c8056a6cc9a7
 
 ```
 frontend-developer-task/
 ├── backend/
 │   ├── config/
+<<<<<<< HEAD
 │   │   └── db.js              # MongoDB connection
 │   ├── controllers/
 │   │   ├── authController.js    # Authentication logic
@@ -199,11 +229,34 @@ This project is licensed under the MIT License.
 ## 🎯 Project Highlights
 
 ### Technical Excellence
+=======
+│   ├── controllers/
+│   ├── middleware/
+│   ├── models/
+│   ├── routes/
+│   └── server.js
+└── frontend/
+    ├── src/
+    │   ├── components/
+    │   ├── pages/
+    │   ├── services/
+    │   └── App.jsx
+    ├── package.json
+    ├── tailwind.config.js
+    ├── postcss.config.js
+    └── index.css
+```
+
+##  Ready for Production
+
+This application demonstrates:
+>>>>>>> f62e7f85b866f670c5f926200377c8056a6cc9a7
 - ✅ Production-ready architecture
 - ✅ Security best practices
 - ✅ Professional UI/UX
 - ✅ Scalable codebase
 - ✅ Clean separation of concerns
+<<<<<<< HEAD
 
 ### Modern Development Practices
 - ✅ RESTful API design
@@ -225,3 +278,8 @@ This project is licensed under the MIT License.
 **🎉 Perfect for internship submission and production deployment!**
 
 Built with ❤️ using React, Node.js, Express, MongoDB, and Tailwind CSS
+=======
+- ✅ Modern development practices
+
+
+>>>>>>> f62e7f85b866f670c5f926200377c8056a6cc9a7
